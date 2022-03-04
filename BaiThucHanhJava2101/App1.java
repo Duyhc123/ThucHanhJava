@@ -3,7 +3,7 @@
 import java.util.Scanner;
 public class App1 {
 public static void main(String[] args) throws Exception{
-    double hsA, hsB, hsC, delta;
+    double hsA, hsB, hsC, delta ;
     double x1, x2;
     try (Scanner abc = new Scanner(System.in)){
         System.out.println("Nhap vao he so A:");
